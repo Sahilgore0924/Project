@@ -1,0 +1,6 @@
+Date,Quizzes_Attempted,Students_Registered,Correct_Answers,Wrong_Answers,Average_Score,Time_Spent_Minutes,Pass_Count,Fail_Count
+2024-01-01,50,40,400,100,75,30,32,8
+2024-01-02,65,55,520,130,78,32,45,10
+2024-01-03,80,70,610,150,82,35,60,10
+2024-01-04,95,85,720,180,85,38,72,13
+2024-01-05,110,100,850,200,88,40,85,15
